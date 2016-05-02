@@ -2,8 +2,8 @@
 layout: post
 title:  "html的复习文档"
 date:   2016-05-02 11:52:05
-categories: XHTML
-tags: XHTML
+categories: html
+tags: html
 ---
 
 * content
