@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "XHTML的复习文档"
-date:   2016-05-02 15:14:54
+date:   2016-05-02 15:14:54 +0800
 categories: Sublime
 tags: Sublime jshint csslint
 ---
