@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "百度Web"
-date:   2015-03-15 19:06:05
-categories: HTML CSS
-tags: Baidu ife HTML CSS task
+title:  "html复习文档"
+date:   2016-05-02 19:06:05
+categories: HTML 
+tags: HTML 
 ---
 
 * content
