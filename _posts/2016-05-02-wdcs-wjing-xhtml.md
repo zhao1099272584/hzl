@@ -9,10 +9,6 @@ tags: html
 * content
 {:toc}
 
-回顾前面的学习资料html的各种知识
-
-
-
 
 
 ## HTNL的基本结构
