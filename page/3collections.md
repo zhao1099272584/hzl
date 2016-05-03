@@ -46,7 +46,7 @@ icon: bookmark
 
 ## 技术的博客
 
-* [凳子_Joinery 邓智容  http://www.dengzhr.com/](http://www.dengzhr.com/)
+* [平哥  http://zhuzhengping.github.io/collection/](http://zhuzhengping.github.io/collection/)
 
 ## 编辑器
 
