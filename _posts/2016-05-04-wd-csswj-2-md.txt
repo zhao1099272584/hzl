@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CSSS的入门基础"
+title:  "CSSS中文字与文档"
 date:   2016-05-04 16:14:54 +0800
 categories: 	CSS	
 tags: 	css
