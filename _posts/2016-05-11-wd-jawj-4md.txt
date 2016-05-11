@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "javascriptt运算符和流程控制语句"
-date:   2016-05-11 16:15:54 +0800
+date:   2016-05-11 16:20:54 +0800
 categories:  javascriptt	
 tags: 	运算符
 ---
