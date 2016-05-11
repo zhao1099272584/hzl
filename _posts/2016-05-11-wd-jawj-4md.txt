@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "JavaScript运算符和流程控制语句"
-date:   2016-05-11 17:15:54 +0800
-categories:  JavaScript	
-tags: 	运算符 流程控制语句
+title:  "javascriptt运算符和流程控制语句"
+date:   2016-05-11 16:15:54 +0800
+categories:  javascriptt	
+tags: 	运算符
 ---
  
 * content
 {:toc}
 
-本章讲的是使用JavaScript运算符
-
+本章讲的是使用javascriptt运算符和流程控制语句
 
 
 
