@@ -9,7 +9,7 @@ tags: 	运算符 流程控制语句
 * content
 {:toc}
 
-本章讲的是使用javascript运算符和流程控制语句
+
 
 
 
